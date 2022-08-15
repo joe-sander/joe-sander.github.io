@@ -1,6 +1,8 @@
 ## Welcome to Joe Sander's CodeZone
 
-This is the portfolio website of Joe Sander, a full-stack developer with experience in building web apps in Java, JavaScript, Vue.js, and others.
+HellO! I'm Joe, a Full-Stack Software Developer. I recently graduated from Tech Elevator's Full-Stack Java Bootcamp and am looking to kickstart my career as a Software Developer. Here you can find various projects I've been working on since graduation.
+
+I'm very interested in both server-side Java development and also game development. My goal is to land a job as a Cloud Developer, building efficient, maintainable and scalable applications with a long-term goal to become a Cloud Architect.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
