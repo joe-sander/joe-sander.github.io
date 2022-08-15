@@ -1,6 +1,6 @@
 ## Welcome to Joe Sander's CodeZone
 
-You can use the [editor on GitHub](https://github.com/joe-sander/joe-sander.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is the portfolio website of Joe Sander, a full-stack developer with experience in building web apps in Java, JavaScript, Vue.js, and others.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
