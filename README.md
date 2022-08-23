@@ -4,7 +4,6 @@ HellO! I'm Joe, a Full-Stack Software Developer. I recently graduated from Tech 
 
 I'm very interested in both server-side Java development and also game development. My goal is to land a job as a Cloud Developer, building efficient, maintainable and scalable applications with a long-term goal to become a Cloud Architect.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
