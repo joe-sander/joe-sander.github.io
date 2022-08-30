@@ -4,11 +4,6 @@ HellO! I'm Joe, a Full-Stack Software Developer. I recently graduated from Tech 
 
 I'm very interested in both server-side Java development and also game development. My goal is to land a job as a Cloud Developer, building efficient, maintainable and scalable applications with a long-term goal to become a Cloud Architect.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
