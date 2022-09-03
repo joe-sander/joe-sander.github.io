@@ -1,5 +1,5 @@
 # Final Capstone
 
-This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
+This directory contains all of the code for our final capstone at Tech Elevator. Our team of 4 was assigned a product owner and over 2 weeks built the back and front-end of a pizza ordering/delivery website. The back end was built in Java, the database was populated in PostgreSQL and REST APIs with Spring Boot were used to deploy services to the front-end, such as customer information, pizza information such as quantity, name, type, and other information. The front-end was built on the Vue.js framework with JavaScript, HTML, and CSS. 
 
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Anonymous users can intially only see the menu, but upon creating account have access to the menu and ordering screen which they can click through and order custom pizzas or specialty pizzas. The website maintains a shopping cart which tracks the pizzas chosen and price, and a final payment screen. The website also has an employee authentication, where the employee has access to a back end where they can adjust the availibility of pizzas. The design and function of the website was advised by a project manager who gave base specs and requirements, and the project was completed with 2-day sprints over a span of 10 days. Enjoy!
