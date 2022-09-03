@@ -1,5 +1,5 @@
-# Final Capstone
+# Hello, welcome to Joe Sander's portfolio page. 
 
-This directory contains all of the code for our final capstone at Tech Elevator. Our team of 4 was assigned a product owner and over 2 weeks built the back and front-end of a pizza ordering/delivery website. The back end was built in Java, the database was populated in PostgreSQL and REST APIs with Spring Boot were used to deploy services to the front-end, such as customer information, pizza information such as quantity, name, type, and other information. The front-end was built on the Vue.js framework with JavaScript, HTML, and CSS. 
+## I am an aspiring junior developer with 10 years experience in sales who recently attended Tech Elevator's Fullstack Java Bootcamp. Over the span of four months and 700+ hours of lecture, paired programming projects, exercises, and group projects, I learned how to build and deploy web applications from building REST APis with Spring Boot on the back end to a front-end built on the Vue.js framework with JavaScript, HTML, and CSS. I can also develop databases and manage them in PostgreSQL.
 
-Anonymous users can intially only see the menu, but upon creating account have access to the menu and ordering screen which they can click through and order custom pizzas or specialty pizzas. The website maintains a shopping cart which tracks the pizzas chosen and price, and a final payment screen. The website also has an employee authentication, where the employee has access to a back end where they can adjust the availibility of pizzas. The design and function of the website was advised by a project manager who gave base specs and requirements, and the project was completed with 2-day sprints over a span of 10 days. Enjoy!
+
