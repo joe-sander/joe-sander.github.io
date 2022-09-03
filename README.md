@@ -1,33 +1,5 @@
-## Welcome to Joe Sander's CodeZone
+# Final Capstone
 
-HellO! I'm Joe, a Full-Stack Software Developer. I recently graduated from Tech Elevator's Full-Stack Java Bootcamp and am looking to kickstart my career as a Software Developer. Here you can find various projects I've been working on since graduation.
+This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
 
-I'm very interested in both server-side Java development and also game development. My goal is to land a job as a Cloud Developer, building efficient, maintainable and scalable applications with a long-term goal to become a Cloud Architect.
-
-```markdown
-Syntax highlighted code block
-
-# Joe Sander's
-## CodeZone
-### Gnarly
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joe-sander/joe-sander.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
