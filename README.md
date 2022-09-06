@@ -13,6 +13,11 @@
  * CSS
  * OOP Principles
 
+## Projects
+* **Slicer** - Pizza Ordering Website - *Java, JavaScript, Vue.js, HTML, CSS*
+* **Go News App** - Searchable news engine built in Go - *Golang, HTML, CSS*
+* **Tenmo** - Simple money transfer application - *Java, REST APIs with Spring Boot*
+
 ## Skills
 * CI/CD with Git/Github
 * Experience in paired programming environment
