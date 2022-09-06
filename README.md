@@ -4,7 +4,7 @@
  
  I am currently learning Go along with Linux and AWS/Azure and Docker/Kubernetes with intentions to get a server-side development/administration or a Cloud Developer position. 
  
- ## Languages/Technologies
+ ## Languages
  * Java
  * JavaScript
  * REST APIs with Spring Boot
@@ -24,6 +24,12 @@
 * CI/CD with Git/Github
 * Experience in paired programming environment
 * Experience in group sprint environment (Final capstone was spread out over series of sprints)
+
+## Technologies
+* Linux command line
+* Intellij 
+* VS Code
+* Github
 
 
 
