@@ -25,9 +25,7 @@
 * Experience in paired programming environment
 * Experience in group sprint environment (Final capstone was spread out over series of sprints)
 
-## Completed Projects
 
-Thanks for stopping by. 
 
 
  
